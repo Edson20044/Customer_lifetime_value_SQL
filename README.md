@@ -34,5 +34,5 @@ The following two tables are used to perform the calculations below:
 
 ![image](https://user-images.githubusercontent.com/132544906/236175368-2d3c6d9d-1244-4545-9631-01e6164d6a32.png)
 
-**low stock** = SUM(quantityOrdered)/quantityInStock
-**product performance** = SUM(quantityOrdered × priceEach)
+- **low stock** = SUM(quantityOrdered)/quantityInStock
+- **product performance** = SUM(quantityOrdered × priceEach)
