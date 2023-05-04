@@ -12,8 +12,8 @@ The scale model cars database schema is as follows.
  
 It contains eight tables:
 
-- Первый пункт Customers: customer data
-- Второй пункт Employees: all employee information
+- Customers: customer data
+- Employees: all employee information
 Offices: sales office information
 Orders: customers' sales orders
 OrderDetails: sales order line for each sales order
