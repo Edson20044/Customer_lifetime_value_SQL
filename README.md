@@ -36,3 +36,19 @@ The following two tables are used to perform the calculations below:
 
 - **low stock** = SUM(quantityOrdered)/quantityInStock
 - **product performance** = SUM(quantityOrdered × priceEach)
+
+how should we match marketing and communication strategies to customer behaviors? This involves categorizing customers: finding the VIP (very important person) customers and those who are less engaged.
+
+VIP customers bring in the most profit for the store.
+
+Less-engaged customers bring in less profit.
+
+For example, we could organize some events to drive loyalty for the VIPs and launch a campaign for the less engaged.
+
+Before we begin, let's compute how much profit each customer generates.
+
+We'll need these tables:
+
+![image](https://user-images.githubusercontent.com/132544906/236284163-86e56daa-b374-46b4-93a0-342e03f7c02b.png)
+
+
