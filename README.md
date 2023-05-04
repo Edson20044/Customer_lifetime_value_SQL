@@ -6,6 +6,9 @@ The questions to be answered for this project are as follows:
 •	How should we tailor marketing and communication strategies to customer behaviors?
 •	How much can we spend on acquiring new customers?
 The scale model cars database schema is as follows.
+
+![image](https://user-images.githubusercontent.com/132544906/236166626-9eecde73-b76f-4e43-91b9-7e52d989dfa9.png)
+
  
 It contains eight tables:
 
