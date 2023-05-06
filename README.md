@@ -1,4 +1,4 @@
-# Model Cars
+# Defining Customer Lifetime Value
 
 The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making.
 The questions to be answered for this project are as follows:
