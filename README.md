@@ -45,6 +45,8 @@ Profit from each customer is to be computed with the tables below:
 
 ![image](https://user-images.githubusercontent.com/132544906/236284163-86e56daa-b374-46b4-93a0-342e03f7c02b.png)
 
+
+
 **Priority Products for Restocking**
 
  The next steps are calculating profit per customer and defining priority products for restocking. It gives information that classic cars are the priority for restocking. They sell frequently, and they are the highest-performance products.
@@ -53,17 +55,22 @@ Profit from each customer is to be computed with the tables below:
  
  Defining VIP and less engaged customers is the next step and the information is presented in the tables below.
  
+ 
  **VIP Customers**
+ 
  
  ![image](https://user-images.githubusercontent.com/132544906/236609922-a30be3e1-e522-4cf3-b7a6-aa1c37ae8f32.png)
 
+
 **Less Engaged Customers**
+
 
 ![image](https://user-images.githubusercontent.com/132544906/236609943-74743bf8-8f44-49e0-9e9e-3ede606b0a2a.png)
 
+
 **Customer Lifetime Value**
  
- To determine how much money can be spent on acquiring new customers, the Customer Lifetime Value (LTV) is to be computed. It represents the average amount of money a customer generates. After that the amount of money to be spent on marketing could be determined as well as how to drive loyalty and attract more customers. As a result we get the following number:
+ To determine how much money can be spent on acquiring new customers, the Customer Lifetime Value (LTV) is to be computed. It represents the average amount of money a customer generates. After that the amount of money to be spent on marketing could be determined as well as how to drive loyalty and attract more customers. As a result we get the following figure:
  
  ![image](https://user-images.githubusercontent.com/132544906/236610098-630f29c1-f564-431d-8295-eb0de4036823.png)
 
