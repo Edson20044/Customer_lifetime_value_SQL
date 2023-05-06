@@ -43,4 +43,10 @@ Profit from each customer is to be computed with the tables below to be used:
 
 ![image](https://user-images.githubusercontent.com/132544906/236284163-86e56daa-b374-46b4-93a0-342e03f7c02b.png)
 
+ The next steps are calculating profit per customer and defining priority products for restocking. It gives information that classic cars are the priority for restocking. They sell frequently, and they are the highest-performance products.
+ 
+ ![image](https://user-images.githubusercontent.com/132544906/236609386-4d0212b2-470e-4958-a5f2-8ed998eed5f1.png)
+ 
+ To determine how much money we can spend acquiring new customers, we can compute the Customer Lifetime Value (LTV), which represents the average amount of money a customer generates. We can then determine how much we can spend on marketing.
+ 
 
