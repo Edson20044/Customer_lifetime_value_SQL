@@ -47,6 +47,19 @@ Profit from each customer is to be computed with the tables below to be used:
  
  ![image](https://user-images.githubusercontent.com/132544906/236609386-4d0212b2-470e-4958-a5f2-8ed998eed5f1.png)
  
- To determine how much money we can spend acquiring new customers, we can compute the Customer Lifetime Value (LTV), which represents the average amount of money a customer generates. We can then determine how much we can spend on marketing.
+ Defining VIP and less engaged customers is the next step and the information is presented in the tables below.
+ 
+ **VIP Customers**
+ 
+ ![image](https://user-images.githubusercontent.com/132544906/236609922-a30be3e1-e522-4cf3-b7a6-aa1c37ae8f32.png)
+
+**Less Engaged Customers**
+
+![image](https://user-images.githubusercontent.com/132544906/236609943-74743bf8-8f44-49e0-9e9e-3ede606b0a2a.png)
+ 
+ To determine how much money can be spent on acquiring new customers, the Customer Lifetime Value (LTV) is to be computed. It represents the average amount of money a customer generates. After that the amount of money to be spent on marketing could be determined as well as how to drive loyalty and attract more customers.
+ 
+ ![image](https://user-images.githubusercontent.com/132544906/236610098-630f29c1-f564-431d-8295-eb0de4036823.png)
+
  
 
