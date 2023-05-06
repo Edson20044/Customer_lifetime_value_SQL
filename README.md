@@ -24,7 +24,7 @@ It contains eight tables:
 
 **Choosing products to order**
 
-Inventory reports include low stock(i.e. product in demand) and product performance. The low stock represents the quantity of the sum of each product ordered divided by the quantity of product in stock. The ten highest rates can be considered. These will be the top ten products that are almost out-of-stock or completely out-of-stock.
+Inventory reports include low stock (i.e. product in demand) and product performance. The low stock represents the quantity of the sum of each product ordered divided by the quantity of product in stock. The ten highest rates can be considered. These will be the top ten products that are almost out-of-stock or completely out-of-stock.
 
 The product performance represents the sum of sales per product.
 
@@ -37,11 +37,15 @@ The following two tables are used to perform the calculations below:
 - **low stock** = SUM(quantityOrdered)/quantityInStock
 - **product performance** = SUM(quantityOrdered × priceEach)
 
-Matching marketing and communication strategies to customer behaviors involves categorizing customers: finding the VIP (very important person) customers and those who are less engaged. Therefore, some events could be organizee to drive loyalty for the VIPs and a campaign could be launched for the less engaged.
+**Categorizing Customers**
 
-Profit from each customer is to be computed with the tables below to be used:
+Matching marketing and communication strategies to customer behaviors involves categorizing customers: finding the VIP (very important person) customers and those who are less engaged. Therefore, some events could be organized to drive loyalty for the VIPs as well as a campaign could be launched for the less engaged.
+
+Profit from each customer is to be computed with the tables below:
 
 ![image](https://user-images.githubusercontent.com/132544906/236284163-86e56daa-b374-46b4-93a0-342e03f7c02b.png)
+
+**Priority Products for Restocking**
 
  The next steps are calculating profit per customer and defining priority products for restocking. It gives information that classic cars are the priority for restocking. They sell frequently, and they are the highest-performance products.
  
@@ -56,8 +60,10 @@ Profit from each customer is to be computed with the tables below to be used:
 **Less Engaged Customers**
 
 ![image](https://user-images.githubusercontent.com/132544906/236609943-74743bf8-8f44-49e0-9e9e-3ede606b0a2a.png)
+
+**Customer Lifetime Value**
  
- To determine how much money can be spent on acquiring new customers, the Customer Lifetime Value (LTV) is to be computed. It represents the average amount of money a customer generates. After that the amount of money to be spent on marketing could be determined as well as how to drive loyalty and attract more customers.
+ To determine how much money can be spent on acquiring new customers, the Customer Lifetime Value (LTV) is to be computed. It represents the average amount of money a customer generates. After that the amount of money to be spent on marketing could be determined as well as how to drive loyalty and attract more customers. As a result we get the following number:
  
  ![image](https://user-images.githubusercontent.com/132544906/236610098-630f29c1-f564-431d-8295-eb0de4036823.png)
 
